@@ -1,0 +1,25 @@
+{
+  "name": "wm_webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zcmwantoo/wm_webapp.git"
+  },
+  "keywords": [
+    "1314521Lp"
+  ],
+  "author": "super01zhou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zcmwantoo/wm_webapp/issues"
+  },
+  "homepage": "https://github.com/zcmwantoo/wm_webapp#readme",
+  "dependencies": {
+    "webpack": "^4.3.0"
+  }
+}
