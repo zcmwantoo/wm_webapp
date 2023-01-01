@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/zcmwantoo/wm_webapp#readme",
   "dependencies": {
-    "webpack": "^4.3.0"
+    "webpack": "^5.75.0"
   }
 }
